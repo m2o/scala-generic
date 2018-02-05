@@ -1,0 +1,8 @@
+To run tests:
+sbt test
+
+To see application help:
+sbt "run --help"
+
+Example to run application:
+sbt "run --inputFile reduced.csv -a 17c725e9 -b ed3c7f8f -d 3"
